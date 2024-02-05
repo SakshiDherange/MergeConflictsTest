@@ -2,14 +2,11 @@
 <head>
 </head>
 <body>
+<<<<<<< HEAD
 master
-
-</body>
-</html<html>
-<head>
-</head>
-<body>
+=======
 new_feature
+>>>>>>> new_feature
 
 </body>
-</html
+</html>
